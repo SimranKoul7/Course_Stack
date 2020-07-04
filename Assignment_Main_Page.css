@@ -86,8 +86,8 @@
 }
 
 .ie {
-	width: 175px;
-	height: 130px;
+	width: 295px;
+	height: 210px;
 }
 
 .imglogo {
@@ -117,7 +117,8 @@
 	width: 400px;
 	height: 150px;
 	background: -webkit-radial-gradient(center,circle,red 0%,orange 50%);
-	margin: 10px auto;
+	margin-top: 30px;
+	margin-left: 150px;
 	-webkit-border-radius: 40px;
 	-webkit-box-shadow: rgba(120,120,120,0.6) 8px 8px 8px;
 }
@@ -545,8 +546,9 @@ input[type=number] {
 }
 
 .simg {
-	width: 380px;
-	height: 180px;
+	width: 480px;
+	height: 280px;
+	margin-bottom: 180px;
 }
 
 .slist {
@@ -682,6 +684,8 @@ caption {
 	height: 190px;
 	border: 3px solid brown;
 	border-radius: 40px;
+	margin-right: 80px;
+	margin-left: 100px;
 }
 
 #about6 {
@@ -735,7 +739,7 @@ caption {
 	font-weight: bold;
 }
 
-#cs1, #cs2, #cs3, #cs4, #cs5 {
+#cs1, #cs2, #cs3, #cs4{
 	max-width: 100%;
 	
 	display: -webkit-box;
